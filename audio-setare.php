@@ -35,3 +35,4 @@ function wp_audio_setare($atter = []){
                     </audio></p>";
                     }
 }
+add_shortcode('audio_setare', 'wp_audio_setare');

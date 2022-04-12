@@ -14,4 +14,5 @@ Play audio files in WordPress
 # Use
 
 add audio File
+
 `[audio_setare fileurl=https://www.w3schools.com/html/horse.mp3]`

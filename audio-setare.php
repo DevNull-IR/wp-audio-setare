@@ -15,6 +15,6 @@
  * Text Domain:       wp-audio-setare
  * Domain Path:       /languages
  */
-function wp_audio_setare(){
+function wp_audio_setare($atter = []){
 
 }

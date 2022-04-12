@@ -22,3 +22,7 @@ Set align audio:
 `[audio_setare fileurl=https://www.w3schools.com/html/horse.mp3 align=center]`
 
 align Parametr => `['center','left','right']`
+
+Play Audio Loop:
+
+`[audio_setare fileurl=https://www.w3schools.com/html/horse.mp3 align=center]`

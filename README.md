@@ -10,3 +10,8 @@ Play audio files in WordPress
 3- Active Wp Audio Setare Plugin
 
 4- The End
+
+# Use
+
+add audio File
+`[audio_setare fileurl=https://www.w3schools.com/html/horse.mp3]`
